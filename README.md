@@ -23,7 +23,7 @@ Official Repository for the Governor DAO cryptocurrency project.
 
 ### Swapico: Swap the GDAO-ETH sLP for the UNI-V2 LP
 - [GitHub Repo](https://github.com/CryptoUnico/Swapico) | [Etherscan](https://etherscan.io/address/0xcc23ef76b46ed576caa5a1481f4400d2543f8006#code) | [Front-End](https://swap.governordao.org)
-- Swap an one pre-determined token for another at a 1:1 ratio, though modifiable.
+- Swap one pre-determined token for another at a 1:1 ratio, though modifiable.
 - Used for GDAO sLP to LP conversion.
 
 ## Publications
